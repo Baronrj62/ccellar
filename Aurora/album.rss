@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Aurora Pictures by Rob Baron</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>CSI_Aurora_Oct8_2012asm</title>
+            <link>slides/CSI_Aurora_Oct8_2012asm.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CSI_Aurora_Oct8_2012asm.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/CSI_Aurora_Oct8_2012asm.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="08/10/12 11:48 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/CSI_Aurora_Oct8_2012asm.jpg</guid>
+        </item>
+        <item>
+            <title>CSI_Aurora_Oct8_2012bsm</title>
+            <link>slides/CSI_Aurora_Oct8_2012bsm.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CSI_Aurora_Oct8_2012bsm.jpg" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/CSI_Aurora_Oct8_2012bsm.jpg" width="500" height="750"/>
+            <jalbum:exif originalDate="08/10/12 11:51 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/CSI_Aurora_Oct8_2012bsm.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_5414</title>
+            <link>slides/IMG_5414.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_5414.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_5414.jpg" width="1125" height="750"/>
+            <guid isPermaLink="false">slides/IMG_5414.jpg</guid>
+        </item>
+        <item>
+            <title>Northern Lights Mar8_08a</title>
+            <link>slides/Northern%20Lights%20Mar8_08a.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Northern%20Lights%20Mar8_08a.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Northern%20Lights%20Mar8_08a.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="09/03/08 1:38 AM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Northern%20Lights%20Mar8_08a.jpg</guid>
+        </item>
+        <item>
+            <title>Northern Lights Mar8_08b</title>
+            <link>slides/Northern%20Lights%20Mar8_08b.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Northern%20Lights%20Mar8_08b.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Northern%20Lights%20Mar8_08b.jpg" width="1125" height="750"/>
+            <guid isPermaLink="false">slides/Northern%20Lights%20Mar8_08b.jpg</guid>
+        </item>
+        <item>
+            <title>Northern Lights Mar8_08c</title>
+            <link>slides/Northern%20Lights%20Mar8_08c.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Northern%20Lights%20Mar8_08c.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Northern%20Lights%20Mar8_08c.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="09/03/08 1:38 AM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Northern%20Lights%20Mar8_08c.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0715</title>
+            <link>slides/IMG_0715.JPG#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0715.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0715.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="08/02/05 11:15 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_0715.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_1180processed</title>
+            <link>slides/IMG_1180processed.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1180processed.jpg" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_1180processed.jpg" width="500" height="750"/>
+            <jalbum:exif originalDate="05/04/10 12:52 AM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_1180processed.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_4598</title>
+            <link>slides/IMG_4598.JPG#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_4598.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_4598.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="09/09/11 11:37 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_4598.JPG</guid>
+        </item>
+        <item>
+            <title>NLC_RobBaron_June7_08b</title>
+            <link>slides/NLC_RobBaron_June7_08b.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NLC_RobBaron_June7_08b.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/NLC_RobBaron_June7_08b.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="08/07/08 12:12 AM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/NLC_RobBaron_June7_08b.jpg</guid>
+        </item>
+        <item>
+            <title>NLight_Oct2_2002a</title>
+            <link>slides/NLight_Oct2_2002a.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NLight_Oct2_2002a.jpg" width="180" height="119"/>
+            <media:content type="image/jpeg" url="slides/NLight_Oct2_2002a.jpg" width="1139" height="750"/>
+            <guid isPermaLink="false">slides/NLight_Oct2_2002a.jpg</guid>
+        </item>
+        <item>
+            <title>NLight_Oct2_2002b</title>
+            <link>slides/NLight_Oct2_2002b.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NLight_Oct2_2002b.jpg" width="180" height="119"/>
+            <media:content type="image/jpeg" url="slides/NLight_Oct2_2002b.jpg" width="1139" height="750"/>
+            <guid isPermaLink="false">slides/NLight_Oct2_2002b.jpg</guid>
+        </item>
+        <item>
+            <title>NLight_Oct2_2002c</title>
+            <link>slides/NLight_Oct2_2002c.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NLight_Oct2_2002c.jpg" width="180" height="119"/>
+            <media:content type="image/jpeg" url="slides/NLight_Oct2_2002c.jpg" width="1139" height="750"/>
+            <guid isPermaLink="false">slides/NLight_Oct2_2002c.jpg</guid>
+        </item>
+        <item>
+            <title>NLight_Oct2_2002f</title>
+            <link>slides/NLight_Oct2_2002f.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NLight_Oct2_2002f.jpg" width="180" height="119"/>
+            <media:content type="image/jpeg" url="slides/NLight_Oct2_2002f.jpg" width="1139" height="750"/>
+            <guid isPermaLink="false">slides/NLight_Oct2_2002f.jpg</guid>
+        </item>
+        <item>
+            <title>NoctileucentMosaic8x10 </title>
+            <link>slides/NoctileucentMosaic8x10%20.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NoctileucentMosaic8x10%20.jpg" width="180" height="144"/>
+            <media:content type="image/jpeg" url="slides/NoctileucentMosaic8x10%20.jpg" width="938" height="750"/>
+            <jalbum:exif originalDate="02/07/11 12:12 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/NoctileucentMosaic8x10%20.jpg</guid>
+        </item>
+        <item>
+            <title>Noctilucent_Clouds David</title>
+            <link>slides/Noctilucent_Clouds%20David.jpg#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Noctilucent_Clouds%20David.jpg" width="180" height="60"/>
+            <media:content type="image/jpeg" url="slides/Noctilucent_Clouds%20David.jpg" width="1600" height="533"/>
+            <guid isPermaLink="false">slides/Noctilucent_Clouds%20David.jpg</guid>
+        </item>
+        <item>
+            <title>northlight2</title>
+            <link>slides/northlight2.JPG#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/northlight2.JPG" width="119" height="180"/>
+            <media:content type="image/jpeg" url="slides/northlight2.JPG" width="359" height="545"/>
+            <guid isPermaLink="false">slides/northlight2.JPG</guid>
+        </item>
+        <item>
+            <title>northlight3</title>
+            <link>slides/northlight3.JPG#</link>
+            <pubDate>Sat, 01 Dec 2012 21:30:05 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/northlight3.JPG" width="119" height="180"/>
+            <media:content type="image/jpeg" url="slides/northlight3.JPG" width="359" height="545"/>
+            <guid isPermaLink="false">slides/northlight3.JPG</guid>
+        </item>
+    </channel>
+</rss>
