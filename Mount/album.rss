@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>New Astrophotos by Rob Baron</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>Homemade Mount 1</title>
+            <link>slides/Homemade%20Mount%201.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description>Home made equatorial mount in front of the lathe that made it.  Note autoguiding camera</description>
+            <media:description type="html">Home made equatorial mount in front of the lathe that made it.  Note autoguiding camera</media:description>
+            <media:thumbnail url="thumbs/Homemade%20Mount%201.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Homemade%20Mount%201.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="05/05/12 10:06 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/Homemade%20Mount%201.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9107</title>
+            <link>slides/IMG_9107.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9107.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9107.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="08/04/12 12:54 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_9107.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9109</title>
+            <link>slides/IMG_9109.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9109.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9109.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="08/04/12 12:55 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_9109.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9129</title>
+            <link>slides/IMG_9129.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description>Nintendo Wii Numchuck controller modified for use with mount</description>
+            <media:description type="html">Nintendo Wii Numchuck controller modified for use with mount</media:description>
+            <media:thumbnail url="thumbs/IMG_9129.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9129.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="05/05/12 10:05 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_9129.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9130</title>
+            <link>slides/IMG_9130.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description>Arduino microcontroller controls stepper motor.  Mount accepts autoguide signals.</description>
+            <media:description type="html">Arduino microcontroller controls stepper motor.  Mount accepts autoguide signals.</media:description>
+            <media:thumbnail url="thumbs/IMG_9130.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9130.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="05/05/12 10:05 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_9130.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9132</title>
+            <link>slides/IMG_9132.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9132.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_9132.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="05/05/12 10:05 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_9132.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9133</title>
+            <link>slides/IMG_9133.JPG#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description>Belt drive with  home made 4" aluminum worm wheel and steel worm gear</description>
+            <media:description type="html">Belt drive with  home made 4" aluminum worm wheel and steel worm gear</media:description>
+            <media:thumbnail url="thumbs/IMG_9133.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_9133.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="05/05/12 10:06 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_9133.JPG</guid>
+        </item>
+        <item>
+            <title>DoingCameraMod</title>
+            <link>slides/DoingCameraMod.jpg#</link>
+            <pubDate>Sun, 10 Feb 2013 14:11:06 -0700</pubDate>
+            <description>This is the workspace with my Canon Rebel DSLR in pieces as I replace the sensor IR filter with a Baader ACF conversion filter</description>
+            <media:description type="html">This is the workspace with my Canon Rebel DSLR in pieces as I replace the sensor IR filter with a Baader ACF conversion filter</media:description>
+            <media:thumbnail url="thumbs/DoingCameraMod.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/DoingCameraMod.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="19/01/13 11:04 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/DoingCameraMod.jpg</guid>
+        </item>
+    </channel>
+</rss>
