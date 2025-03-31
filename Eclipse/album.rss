@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Eclipse Pictures by Rob Baron</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>EclipseTotality_August21_2017asm</title>
+            <link>slides/EclipseTotality_August21_2017asm.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EclipseTotality_August21_2017asm.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/EclipseTotality_August21_2017asm.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="21/08/17 11:50 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T3i"/>
+            <guid isPermaLink="false">slides/EclipseTotality_August21_2017asm.jpg</guid>
+        </item>
+        <item>
+            <title>EclipseDiamondRing_August21_2017asm</title>
+            <link>slides/EclipseDiamondRing_August21_2017asm.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EclipseDiamondRing_August21_2017asm.jpg" width="240" height="188"/>
+            <media:content type="image/jpeg" url="slides/EclipseDiamondRing_August21_2017asm.jpg" width="985" height="780"/>
+            <jalbum:exif originalDate="21/08/17 11:51 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T3i"/>
+            <guid isPermaLink="false">slides/EclipseDiamondRing_August21_2017asm.jpg</guid>
+        </item>
+        <item>
+            <title>EclipseSequence_August21_2017bsm</title>
+            <link>slides/EclipseSequence_August21_2017bsm.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/EclipseSequence_August21_2017bsm.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/EclipseSequence_August21_2017bsm.jpg" width="1158" height="780"/>
+            <jalbum:exif originalDate="21/08/17 11:50 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/EclipseSequence_August21_2017bsm.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_9676SM</title>
+            <link>slides/IMG_9676SM.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9676SM.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/IMG_9676SM.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="21/08/17 11:47 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T3i"/>
+            <guid isPermaLink="false">slides/IMG_9676SM.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_9688SM</title>
+            <link>slides/IMG_9688SM.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9688SM.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/IMG_9688SM.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="21/08/17 11:49 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T3i"/>
+            <guid isPermaLink="false">slides/IMG_9688SM.jpg</guid>
+        </item>
+        <item>
+            <title>SolarEclipseMay20_2012a</title>
+            <link>slides/SolarEclipseMay20_2012a.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SolarEclipseMay20_2012a.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/SolarEclipseMay20_2012a.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="20/05/12 8:24 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/SolarEclipseMay20_2012a.jpg</guid>
+        </item>
+        <item>
+            <title>SolarEclipseMay20_2012b</title>
+            <link>slides/SolarEclipseMay20_2012b.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SolarEclipseMay20_2012b.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/SolarEclipseMay20_2012b.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="20/05/12 8:26 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/SolarEclipseMay20_2012b.jpg</guid>
+        </item>
+        <item>
+            <title>SolarEclipseMay20_2012d</title>
+            <link>slides/SolarEclipseMay20_2012d.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SolarEclipseMay20_2012d.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/SolarEclipseMay20_2012d.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="20/05/12 8:48 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/SolarEclipseMay20_2012d.jpg</guid>
+        </item>
+        <item>
+            <title>SolarEclipseOct23_2014bsm</title>
+            <link>slides/SolarEclipseOct23_2014bsm.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SolarEclipseOct23_2014bsm.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/SolarEclipseOct23_2014bsm.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="23/10/14 3:50 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/SolarEclipseOct23_2014bsm.jpg</guid>
+        </item>
+        <item>
+            <title>SolarEclipseOct23_2014csm</title>
+            <link>slides/SolarEclipseOct23_2014csm.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SolarEclipseOct23_2014csm.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/SolarEclipseOct23_2014csm.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="23/10/14 4:33 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/SolarEclipseOct23_2014csm.jpg</guid>
+        </item>
+        <item>
+            <title>SolarEclipseOct23_2014dsm</title>
+            <link>slides/SolarEclipseOct23_2014dsm.jpg</link>
+            <pubDate>Sun, 10 Sep 2017 12:11:00 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SolarEclipseOct23_2014dsm.jpg" width="240" height="160"/>
+            <media:content type="image/jpeg" url="slides/SolarEclipseOct23_2014dsm.jpg" width="1155" height="780"/>
+            <jalbum:exif originalDate="23/10/14 3:23 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/SolarEclipseOct23_2014dsm.jpg</guid>
+        </item>
+    </channel>
+</rss>
