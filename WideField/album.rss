@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Wide Field Astrophotos by Rob Baron</title>
+   	<link>.</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>CygnusMosaic_Nov2_10sm</title>
+            <link>slides/CygnusMosaic_Nov2_10sm.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CygnusMosaic_Nov2_10sm.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/CygnusMosaic_Nov2_10sm.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="02/11/10 10:36 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/CygnusMosaic_Nov2_10sm.jpg</guid>
+        </item>
+        <item>
+            <title>M16_M17_milkyway_Sept27_2011sm</title>
+            <link>slides/M16_M17_milkyway_Sept27_2011sm.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/M16_M17_milkyway_Sept27_2011sm.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/M16_M17_milkyway_Sept27_2011sm.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="23/09/11 9:59 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/M16_M17_milkyway_Sept27_2011sm.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_2061</title>
+            <link>slides/IMG_2061.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_2061.jpg" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_2061.jpg" width="500" height="750"/>
+            <guid isPermaLink="false">slides/IMG_2061.jpg</guid>
+        </item>
+        <item>
+            <title>NGC7000_wide field 2006a</title>
+            <link>slides/NGC7000_wide%20field%202006a.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGC7000_wide%20field%202006a.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/NGC7000_wide%20field%202006a.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="26/08/06 11:29 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/NGC7000_wide%20field%202006a.jpg</guid>
+        </item>
+        <item>
+            <title>OrionAreaSept24_2011a</title>
+            <link>slides/OrionAreaSept24_2011a.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OrionAreaSept24_2011a.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/OrionAreaSept24_2011a.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="24/09/11 2:50 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/OrionAreaSept24_2011a.jpg</guid>
+        </item>
+        <item>
+            <title>Orion_Area_Dec31_10a</title>
+            <link>slides/Orion_Area_Dec31_10a.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Orion_Area_Dec31_10a.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Orion_Area_Dec31_10a.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="01/01/11 12:08 AM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/Orion_Area_Dec31_10a.jpg</guid>
+        </item>
+        <item>
+            <title>Orion_Area_Dec31_10b</title>
+            <link>slides/Orion_Area_Dec31_10b.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Orion_Area_Dec31_10b.jpg" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Orion_Area_Dec31_10b.jpg" width="500" height="750"/>
+            <jalbum:exif originalDate="31/12/10 10:02 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/Orion_Area_Dec31_10b.jpg</guid>
+        </item>
+        <item>
+            <title>SSSP2006 Milkyway1</title>
+            <link>slides/SSSP2006%20Milkyway1.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/SSSP2006%20Milkyway1.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/SSSP2006%20Milkyway1.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="26/08/06 11:21 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/SSSP2006%20Milkyway1.jpg</guid>
+        </item>
+        <item>
+            <title>OrionHorizonwp</title>
+            <link>slides/OrionHorizonwp.jpg#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/OrionHorizonwp.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/OrionHorizonwp.jpg" width="1125" height="750"/>
+            <guid isPermaLink="false">slides/OrionHorizonwp.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_0920</title>
+            <link>slides/IMG_0920.JPG#</link>
+            <pubDate>Mon, 21 Nov 2011 21:30:13 -0700</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0920.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0920.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="26/01/10 8:08 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_0920.JPG</guid>
+        </item>
+    </channel>
+</rss>
