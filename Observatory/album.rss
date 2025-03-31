@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Solar System Photos</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>IMGP8379a</title>
+            <link>slides/IMGP8379a.jpg</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMGP8379a.jpg" width="180" height="140"/>
+            <media:content type="image/jpeg" url="slides/IMGP8379a.jpg" width="961" height="750"/>
+            <guid isPermaLink="false">slides/IMGP8379a.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1189</title>
+            <link>slides/IMG_1189.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1189.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_1189.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="05/04/10 5:38 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_1189.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_0119</title>
+            <link>slides/IMG_0119.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_0119.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_0119.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="05/09/10 3:06 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_0119.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_8725</title>
+            <link>slides/IMG_8725.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_8725.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_8725.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="10/08/08 7:49 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_8725.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9162</title>
+            <link>slides/IMG_9162.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9162.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_9162.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="23/11/08 3:25 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_9162.JPG</guid>
+        </item>
+        <item>
+            <title>Rob_in_Observatory4a</title>
+            <link>slides/Rob_in_Observatory4a.jpg</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rob_in_Observatory4a.jpg" width="180" height="146"/>
+            <media:content type="image/jpeg" url="slides/Rob_in_Observatory4a.jpg" width="800" height="650"/>
+            <jalbum:exif originalDate="01/06/10 9:35 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Rob_in_Observatory4a.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_1187</title>
+            <link>slides/IMG_1187.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_1187.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_1187.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="05/04/10 5:35 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_1187.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_9109</title>
+            <link>slides/IMG_9109.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_9109.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/IMG_9109.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="12/10/08 1:09 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_9109.JPG</guid>
+        </item>
+        <item>
+            <title>Inside_Obs1</title>
+            <link>slides/Inside_Obs1.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Inside_Obs1.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Inside_Obs1.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="06/07/07 3:20 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Inside_Obs1.JPG</guid>
+        </item>
+        <item>
+            <title>in_observatory</title>
+            <link>slides/in_observatory.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/in_observatory.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/in_observatory.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="23/07/07 6:55 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/in_observatory.JPG</guid>
+        </item>
+        <item>
+            <title>Observatory_Closed</title>
+            <link>slides/Observatory_Closed.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Observatory_Closed.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Observatory_Closed.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="29/07/07 4:37 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Observatory_Closed.JPG</guid>
+        </item>
+        <item>
+            <title>Observatory_open</title>
+            <link>slides/Observatory_open.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Observatory_open.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Observatory_open.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="29/07/07 4:39 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Observatory_open.JPG</guid>
+        </item>
+        <item>
+            <title>ObservatoryFromAir</title>
+            <link>slides/ObservatoryFromAir.jpg</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ObservatoryFromAir.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/ObservatoryFromAir.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="02/09/09 4:58 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/ObservatoryFromAir.jpg</guid>
+        </item>
+        <item>
+            <title>Observatory_workdesk2</title>
+            <link>slides/Observatory_workdesk2.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Observatory_workdesk2.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Observatory_workdesk2.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="23/07/07 6:55 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Observatory_workdesk2.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_2169</title>
+            <link>slides/IMG_2169.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_2169.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_2169.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="03/10/10 4:15 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_2169.JPG</guid>
+        </item>
+        <item>
+            <title>CRW_8659_RJ</title>
+            <link>slides/CRW_8659_RJ.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/CRW_8659_RJ.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/CRW_8659_RJ.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="31/07/08 11:37 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/CRW_8659_RJ.JPG</guid>
+        </item>
+        <item>
+            <title>Obs_clear_sky</title>
+            <link>slides/Obs_clear_sky.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Obs_clear_sky.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Obs_clear_sky.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="06/07/07 3:34 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Obs_clear_sky.JPG</guid>
+        </item>
+        <item>
+            <title>LX3Scope_obs</title>
+            <link>slides/LX3Scope_obs.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/LX3Scope_obs.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/LX3Scope_obs.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="06/07/07 3:20 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/LX3Scope_obs.JPG</guid>
+        </item>
+        <item>
+            <title>Rob_in_observatory</title>
+            <link>slides/Rob_in_observatory.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rob_in_observatory.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Rob_in_observatory.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="04/11/07 1:58 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Rob_in_observatory.JPG</guid>
+        </item>
+        <item>
+            <title>Rob_in_Observatory2</title>
+            <link>slides/Rob_in_Observatory2.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Rob_in_Observatory2.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Rob_in_Observatory2.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="04/11/07 2:01 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Rob_in_Observatory2.JPG</guid>
+        </item>
+        <item>
+            <title>roof_latch</title>
+            <link>slides/roof_latch.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/roof_latch.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/roof_latch.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="01/07/07 2:03 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/roof_latch.JPG</guid>
+        </item>
+        <item>
+            <title>Solar_power</title>
+            <link>slides/Solar_power.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Solar_power.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Solar_power.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="29/07/07 4:54 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Solar_power.JPG</guid>
+        </item>
+        <item>
+            <title>Solar_powered1</title>
+            <link>slides/Solar_powered1.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Solar_powered1.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Solar_powered1.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="23/07/07 6:54 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Solar_powered1.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7064</title>
+            <link>slides/IMG_7064.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7064.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_7064.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="03/06/07 12:49 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/IMG_7064.JPG</guid>
+        </item>
+        <item>
+            <title>Telescope_Pier1</title>
+            <link>slides/Telescope_Pier1.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Telescope_Pier1.JPG" width="120" height="180"/>
+            <media:content type="image/jpeg" url="slides/Telescope_Pier1.JPG" width="500" height="750"/>
+            <jalbum:exif originalDate="03/06/07 8:25 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Telescope_Pier1.JPG</guid>
+        </item>
+        <item>
+            <title>Underconstruction</title>
+            <link>slides/Underconstruction.JPG</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Underconstruction.JPG" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/Underconstruction.JPG" width="1125" height="750"/>
+            <jalbum:exif originalDate="19/06/07 9:09 PM" cameraMake="Canon" cameraModel="Canon EOS DIGITAL REBEL"/>
+            <guid isPermaLink="false">slides/Underconstruction.JPG</guid>
+        </item>
+        <item>
+            <title>IMG_7608sm</title>
+            <link>slides/IMG_7608sm.jpg</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7608sm.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_7608sm.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="13/09/15 1:58 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_7608sm.jpg</guid>
+        </item>
+        <item>
+            <title>IMG_7609sm</title>
+            <link>slides/IMG_7609sm.jpg</link>
+            <pubDate>Sun, 13 Sep 2015 21:49:38 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/IMG_7609sm.jpg" width="180" height="120"/>
+            <media:content type="image/jpeg" url="slides/IMG_7609sm.jpg" width="1125" height="750"/>
+            <jalbum:exif originalDate="13/09/15 1:58 PM" cameraMake="Canon" cameraModel="Canon EOS REBEL T2i"/>
+            <guid isPermaLink="false">slides/IMG_7609sm.jpg</guid>
+        </item>
+    </channel>
+</rss>
